@@ -1,0 +1,7 @@
+{
+  "name": "Copy of kavacpay",
+  "description": "",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
